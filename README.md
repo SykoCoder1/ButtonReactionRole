@@ -8,7 +8,7 @@ Discord.JS V12 Button Reaction Role Made By SykoCoder
 
 **NPM:** https://www.npmjs.com/~sykocoder
 
-**Bug Report:** SykoCoder#4105
+**Bug Report:** SykoCoder#0001
 
  ## Installation
 
